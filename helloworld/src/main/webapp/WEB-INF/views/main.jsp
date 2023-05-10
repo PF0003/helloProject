@@ -10,7 +10,7 @@
 <head>
 <meta charset="UTF-8">
 <title>메인페이지</title>
-
+<!--  -->
 <link href="${contextPath}/resources/css/searchGoodsAir.css" rel="stylesheet" type="text/css" media="screen">
 <link href="${contextPath}/resources/css/main.css" rel="stylesheet" type="text/css" media="screen">
 
